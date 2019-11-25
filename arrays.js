@@ -20,4 +20,7 @@ function destructivelyAddElementToEndOfArray(arr, ele)
   return arr.push(ele)
 }
 
-fu
+function accessElementInArray(arr, i)
+{
+  
+}
